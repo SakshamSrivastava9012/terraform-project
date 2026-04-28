@@ -1,5 +1,6 @@
 # terraform-project
-output of tf plan and tf apply 
+output of tf plan and tf apply  
+TERMINAL SE DIRECT PASTE HAI NOT CHAT GPT 
 
 
 
