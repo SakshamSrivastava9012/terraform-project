@@ -1,6 +1,17 @@
 # terraform-project
 output of tf plan and tf apply  
+
+
+output photo 
+
+![alt text](image-1.png)
+
+
+
+
 TERMINAL SE DIRECT PASTE HAI NOT CHAT GPT 
+
+
 
 
 
